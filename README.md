@@ -7,8 +7,7 @@ This project uses Power BI to explore a dataset of 2024 data science job posting
 
 ## *Dashboard Demo*
 
-[![Watch the interactive dashboard demo video here](Visuals/Project_1_Dashboard_Preview.PNG)](Visuals/Project_1.mp4)
-> *Click the preview image above to view the full video walkthrough.*
+https://github.com/user-attachments/assets/b768a590-cbb1-4965-b54b-ac7b5a1bfa00
 
 ## Skills Used
 
