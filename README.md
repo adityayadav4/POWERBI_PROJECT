@@ -18,7 +18,7 @@ This dashboard explores data job postings, including job titles, salaries, locat
 - Slicers, buttons, and bookmarks
 - Drill-through for detailed analysis
 
-[View Project 1 Details](Dashboard_v1\README.md)
+[View Project 1 Details](/Dashboard_v1/README.md)
 
 ### Project 2: Data Jobs Dashboard with DAX
 
@@ -33,7 +33,7 @@ This project builds on the first dashboard, with a focus on DAX measures, data m
 - Interactive visuals and slicers
 - Dashboard layout and design
 
-[View Project 2 Details](./Data_Jobs_v2/README.md)
+[View Project 2 Details](/Dashboard_v2/README.md)
 
 ## About This Repository
 
